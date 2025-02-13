@@ -1,0 +1,2 @@
+Django==2.0.6
+In VS Code install code runner and enable run in terminal
